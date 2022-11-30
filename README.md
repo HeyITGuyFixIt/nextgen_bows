@@ -6,7 +6,7 @@ Currently includes a Wooden Bow and arrows.
 
 ## Features
 
-* bow will force you sneak when loaded (optional dep. playerphysics)
+* bow will force you sneak when loaded (optional dep. playerphysics/player_monoids)
 * loaded bow will slightly adjust the player FOV
 * bow uses minetest tool capabilities - if the bow is not loaded for long enough (time from last puch) the arrow will fly shorter range
 * arrow uses raycast
@@ -31,6 +31,7 @@ Currently includes a Wooden Bow and arrows.
 - farming (bow and recipes)
 - 3d_armor (calculates damage including the armor)
 - playerphysics (force sneak when holding charged bow)
+- player_monoids (force sneak when holding charged bow)
 
 ## License:
 
